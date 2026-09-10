@@ -1,16 +1,16 @@
 [
   {
     "id": "cyber-threat-intelligence-osint-collective-reddit-1",
-    "title": "r/investing Long Term Wealth",
+    "title": "r/threatintel Adversary Emulation & CTI",
     "platform": "Reddit",
-    "category": "Investing",
-    "memberCount": "2,600,000+ members",
-    "description": "Discussion on macroeconomics, fundamental equity valuation, indexing strategies, and long-term portfolio allocation.",
-    "joinUrl": "https://www.reddit.com/r/investing/",
+    "category": "Threat Intel",
+    "memberCount": "38,000+ members",
+    "description": "Cyber Threat Intelligence analysts sharing APT reports, MITRE ATT&CK mappings, and IoCs.",
+    "joinUrl": "https://www.reddit.com/r/threatintel/",
     "tags": [
-      "investing",
-      "stocks",
-      "wealth",
+      "threatintel",
+      "mitre",
+      "apt",
       "reddit"
     ],
     "verified": true,
@@ -18,16 +18,16 @@
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-reddit-2",
-    "title": "r/stocks Market News",
+    "title": "r/OSINT Open Source Intelligence Guild",
     "platform": "Reddit",
-    "category": "Stock Market",
-    "memberCount": "6,400,000+ members",
-    "description": "Real-time market discussions, earnings reports, analyst ratings, and macroeconomic trends.",
-    "joinUrl": "https://www.reddit.com/r/stocks/",
+    "category": "OSINT",
+    "memberCount": "190,000+ members",
+    "description": "Open Source Intelligence investigations, geolocation forensics, search techniques, and data verification.",
+    "joinUrl": "https://www.reddit.com/r/OSINT/",
     "tags": [
-      "stocks",
-      "wall-street",
-      "earnings",
+      "osint",
+      "investigation",
+      "forensics",
       "reddit"
     ],
     "verified": true,
@@ -35,16 +35,16 @@
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-reddit-3",
-    "title": "r/personalfinance Money Management",
+    "title": "r/cybersecurity Defense & Governance",
     "platform": "Reddit",
-    "category": "Personal Finance",
-    "memberCount": "19,000,000+ members",
-    "description": "The world's largest personal finance community covering budgeting, high-yield cash, 401(k)s, and tax efficiency.",
-    "joinUrl": "https://www.reddit.com/r/personalfinance/",
+    "category": "Cybersecurity",
+    "memberCount": "920,000+ members",
+    "description": "Enterprise security operations, threat modeling, regulatory compliance, and incident response.",
+    "joinUrl": "https://www.reddit.com/r/cybersecurity/",
     "tags": [
-      "personal-finance",
-      "budgeting",
-      "savings",
+      "cybersecurity",
+      "soc",
+      "defense",
       "reddit"
     ],
     "verified": true,
@@ -52,16 +52,16 @@
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-reddit-4",
-    "title": "r/financialindependence FIRE Hub",
+    "title": "r/netsec Network Security & Exploits",
     "platform": "Reddit",
-    "category": "Financial Independence",
-    "memberCount": "2,200,000+ members",
-    "description": "Community dedicated to Financial Independence, Retire Early (FIRE) strategies, safe withdrawal rates, and frugality.",
-    "joinUrl": "https://www.reddit.com/r/financialindependence/",
+    "category": "NetSec",
+    "memberCount": "560,000+ members",
+    "description": "Technical network security research, vulnerability disclosures, PoC exploits, and protocol vulnerabilities.",
+    "joinUrl": "https://www.reddit.com/r/netsec/",
     "tags": [
-      "fire",
-      "retirement",
-      "investing",
+      "netsec",
+      "vulnerabilities",
+      "exploits",
       "reddit"
     ],
     "verified": true,
@@ -69,16 +69,16 @@
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-reddit-5",
-    "title": "r/wallstreetbets Alpha & Options",
+    "title": "r/Malware Reverse Engineering & Sandboxing",
     "platform": "Reddit",
-    "category": "Trading",
-    "memberCount": "16,500,000+ members",
-    "description": "High-volatility trading discussions, market momentum plays, options strategies, and viral retail sentiment.",
-    "joinUrl": "https://www.reddit.com/r/wallstreetbets/",
+    "category": "Malware",
+    "memberCount": "115,000+ members",
+    "description": "Malware sample analysis, decompilation, dynamic sandboxing, unpacking techniques, and C2 infrastructure.",
+    "joinUrl": "https://www.reddit.com/r/Malware/",
     "tags": [
-      "wsb",
-      "trading",
-      "options",
+      "malware",
+      "reverse-engineering",
+      "sandboxing",
       "reddit"
     ],
     "verified": true,
@@ -86,203 +86,201 @@
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-reddit-6",
-    "title": "r/realestateinvesting Wealth Hub",
+    "title": "r/blueteamsec Threat Hunting & SOC Ops",
     "platform": "Reddit",
-    "category": "Real Estate",
-    "memberCount": "540,000+ members",
-    "description": "Strategies for rental property acquisition, BRRRR method, commercial syndication, and 1031 tax exchanges.",
-    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
+    "category": "Blue Team",
+    "memberCount": "48,000+ members",
+    "description": "Defensive security engineering, Yara rule repositories, Sigma detection rules, and SIEM ingestion pipelines.",
+    "joinUrl": "https://www.reddit.com/r/blueteamsec/",
     "tags": [
-      "real-estate",
-      "syndications",
-      "investing",
+      "blueteam",
+      "yara",
+      "sigma",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "cyber-threat-intelligence-osint-collective-discord-7",
-    "title": "Stock Market Discord Hub",
-    "platform": "Discord",
-    "category": "Trading & Stocks",
-    "memberCount": "110,000+ members",
-    "description": "Active market discord providing live voice trading rooms, technical chart analysis, and economic calendar feeds.",
-    "joinUrl": "https://discord.gg/stocks",
+    "id": "cyber-threat-intelligence-osint-collective-reddit-7",
+    "title": "r/reverseengineering Binary Analysis Guild",
+    "platform": "Reddit",
+    "category": "Reverse Engineering",
+    "memberCount": "130,000+ members",
+    "description": "Ghidra, IDA Pro, x64dbg workflows, firmware disassembly, binary reversing, and anti-debug bypasses.",
+    "joinUrl": "https://www.reddit.com/r/reverseengineering/",
     "tags": [
-      "stocks",
-      "trading",
-      "discord",
-      "market"
+      "reverse-engineering",
+      "ghidra",
+      "binary",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "cyber-threat-intelligence-osint-collective-telegram-8",
-    "title": "Bloomberg Market Feed Channel",
-    "platform": "Telegram",
-    "category": "Market News",
-    "memberCount": "140,000+ members",
-    "description": "Rapid market headlines, Federal Reserve rate decisions, treasury yields, and global commodity moves.",
-    "joinUrl": "https://t.me/bloomberg",
+    "id": "cyber-threat-intelligence-osint-collective-forum-8",
+    "title": "0x00sec Security Researchers Forum",
+    "platform": "Forum",
+    "category": "Researchers",
+    "memberCount": "85,000+ members",
+    "description": "Technical peer-led cybersecurity research forum covering offensive tooling, defense mechanisms, and cryptography.",
+    "joinUrl": "https://0x00sec.org",
     "tags": [
-      "bloomberg",
-      "macro",
-      "telegram",
-      "news"
+      "0x00sec",
+      "researchers",
+      "infosec",
+      "forum"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-forum-9",
-    "title": "Bogleheads Forum Community",
+    "title": "HackTheBox Community Forum",
     "platform": "Forum",
-    "category": "Passive Investing",
-    "memberCount": "250,000+ members",
-    "description": "The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.",
-    "joinUrl": "https://bogleheads.org/forum/",
-    "tags": [
-      "bogleheads",
-      "indexing",
-      "forum",
-      "passive-investing"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "cyber-threat-intelligence-osint-collective-forum-10",
-    "title": "BiggerPockets Real Estate Forum",
-    "platform": "Forum",
-    "category": "Real Estate",
-    "memberCount": "2,000,000+ members",
-    "description": "The definitive online community for real estate investors, syndicators, wholesalers, and property managers.",
-    "joinUrl": "https://www.biggerpockets.com/forums",
-    "tags": [
-      "biggerpockets",
-      "real-estate",
-      "forum",
-      "wholesaling"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "cyber-threat-intelligence-osint-collective-reddit-11",
-    "title": "Real Estate Mastermind Subreddit",
-    "platform": "Reddit",
-    "category": "Real Estate",
-    "memberCount": "850,000+ members",
-    "description": "Official discussion hub for real estate market trends, off-market deal contracts, and closing strategies.",
-    "joinUrl": "https://www.reddit.com/r/RealEstate/",
-    "tags": [
-      "real-estate",
-      "contracts",
-      "market-trends",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "cyber-threat-intelligence-osint-collective-reddit-12",
-    "title": "Commercial Real Estate & Syndications",
-    "platform": "Reddit",
-    "category": "Commercial",
-    "memberCount": "120,000+ members",
-    "description": "High-tier institutional and private syndication community covering multifamily assets, cap rates, and deal structuring.",
-    "joinUrl": "https://www.reddit.com/r/CommercialRealEstate/",
-    "tags": [
-      "commercial",
-      "syndication",
-      "multifamily",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "cyber-threat-intelligence-osint-collective-reddit-13",
-    "title": "Landlords & Asset Managers Guild",
-    "platform": "Reddit",
-    "category": "Landlords",
-    "memberCount": "150,000+ members",
-    "description": "Property management operational insights, tenant screening protocols, and rental cashflow optimization discussions.",
-    "joinUrl": "https://www.reddit.com/r/Landlord/",
-    "tags": [
-      "landlords",
-      "rentals",
-      "cashflow",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "cyber-threat-intelligence-osint-collective-reddit-14",
-    "title": "Property Investing & Deal Sourcing",
-    "platform": "Reddit",
-    "category": "Property Deals",
-    "memberCount": "45,000+ members",
-    "description": "Direct community for finding off-market discounted deals, bird-dogging, and wholesaling contract assignments.",
-    "joinUrl": "https://www.reddit.com/r/propertyinvesting/",
-    "tags": [
-      "property-deals",
-      "off-market",
-      "wholesaling",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "cyber-threat-intelligence-osint-collective-reddit-15",
-    "title": "Homeowners & Renovation Value Network",
-    "platform": "Reddit",
-    "category": "Equity",
-    "memberCount": "1,200,000+ members",
-    "description": "Renovation cost benchmarks, contractor vetting, and property equity enhancement strategies.",
-    "joinUrl": "https://www.reddit.com/r/homeowners/",
-    "tags": [
-      "equity",
-      "renovation",
-      "property",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "cyber-threat-intelligence-osint-collective-reddit-16",
-    "title": "Acquisitions & First-Time Buyers",
-    "platform": "Reddit",
-    "category": "Acquisitions",
+    "category": "HackTheBox",
     "memberCount": "350,000+ members",
-    "description": "Entry strategies, FHA/conventional financing nuances, and acquisition checklists for emerging investors.",
-    "joinUrl": "https://www.reddit.com/r/FirstTimeHomeBuyer/",
+    "description": "Official forum for HackTheBox labs, CTF write-ups, active machine walkthroughs, and academy tracks.",
+    "joinUrl": "https://forum.hackthebox.com",
     "tags": [
-      "acquisitions",
-      "financing",
-      "buyers",
-      "reddit"
+      "hackthebox",
+      "ctf",
+      "writeups",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "cyber-threat-intelligence-osint-collective-discord-10",
+    "title": "Security Central Discord",
+    "platform": "Discord",
+    "category": "Security",
+    "memberCount": "45,000+ members",
+    "description": "Real-time security operations center chats, zero-day threat tracking, and blue team collaboration.",
+    "joinUrl": "https://discord.gg/security",
+    "tags": [
+      "security",
+      "soc",
+      "threats",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "cyber-threat-intelligence-osint-collective-discord-11",
+    "title": "Cyber Security Discussions Discord",
+    "platform": "Discord",
+    "category": "Cyber",
+    "memberCount": "35,000+ members",
+    "description": "Collaborative server discussing incident handling, threat intelligence feeds, and forensic analysis.",
+    "joinUrl": "https://discord.gg/cyber",
+    "tags": [
+      "cyber",
+      "forensics",
+      "ir",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "cyber-threat-intelligence-osint-collective-discord-12",
+    "title": "HackTheBox Official Discord",
+    "platform": "Discord",
+    "category": "HackTheBox",
+    "memberCount": "190,000+ members",
+    "description": "The premier Discord server for penetration testers, security analysts, and CTF enthusiasts.",
+    "joinUrl": "https://discord.gg/hackthebox",
+    "tags": [
+      "hackthebox",
+      "pentesting",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "cyber-threat-intelligence-osint-collective-discord-13",
+    "title": "TryHackMe Cyber Training Discord",
+    "platform": "Discord",
+    "category": "TryHackMe",
+    "memberCount": "140,000+ members",
+    "description": "Hands-on cybersecurity training server covering room hints, defense fundamentals, and certifications.",
+    "joinUrl": "https://discord.gg/tryhackme",
+    "tags": [
+      "tryhackme",
+      "training",
+      "certifications",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "cyber-threat-intelligence-osint-collective-github-14",
+    "title": "OWASP Threat Modeling Discussions",
+    "platform": "GitHub",
+    "category": "OWASP",
+    "memberCount": "100,000+ members",
+    "description": "Official OWASP Cheat Sheet repository discussions on threat modeling, defense in depth, and application security.",
+    "joinUrl": "https://github.com/OWASP/CheatSheetSeries/discussions",
+    "tags": [
+      "owasp",
+      "threat-modeling",
+      "github"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "cyber-threat-intelligence-osint-collective-telegram-15",
+    "title": "Cybersecurity Real-Time News Telegram",
+    "platform": "Telegram",
+    "category": "News",
+    "memberCount": "95,000+ members",
+    "description": "Instant notifications on global cyber espionage campaigns, data breaches, and vulnerability exploits.",
+    "joinUrl": "https://t.me/cybersecurity_news",
+    "tags": [
+      "telegram",
+      "news",
+      "breaches",
+      "cybersecurity"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "cyber-threat-intelligence-osint-collective-telegram-16",
+    "title": "Infosec Zero-Day & CVE Alerts Telegram",
+    "platform": "Telegram",
+    "category": "Alerts",
+    "memberCount": "62,000+ members",
+    "description": "Direct alerts on newly published CVEs, weaponized exploits, CISA alerts, and dark web leaks.",
+    "joinUrl": "https://t.me/infosec_alerts",
+    "tags": [
+      "telegram",
+      "cve",
+      "zero-day",
+      "alerts"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-reddit-17",
-    "title": "Realtors & Investor Agents Exchange",
+    "title": "r/ethicalhacking Penetration Testing",
     "platform": "Reddit",
-    "category": "Realtors",
-    "memberCount": "130,000+ members",
-    "description": "Network of investor-friendly licensed agents, pocket listings, MLS insights, and broker collaboration.",
-    "joinUrl": "https://www.reddit.com/r/realtors/",
+    "category": "Ethical Hacking",
+    "memberCount": "410,000+ members",
+    "description": "Offensive security tools, network pivoting, privilege escalation, and ethical penetration testing guidelines.",
+    "joinUrl": "https://www.reddit.com/r/ethicalhacking/",
     "tags": [
-      "realtors",
-      "mls",
-      "pocket-listings",
+      "ethical-hacking",
+      "privesc",
+      "pentesting",
       "reddit"
     ],
     "verified": true,
@@ -290,50 +288,49 @@
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-reddit-18",
-    "title": "PropTech & Automated Deal Finding",
+    "title": "r/bugbounty Vulnerability Research",
     "platform": "Reddit",
-    "category": "Proptech",
-    "memberCount": "35,000+ members",
-    "description": "Modern software, scrapers, automated skip tracing tools, and CRM pipelines for wholesale deal flow.",
-    "joinUrl": "https://www.reddit.com/r/RealEstateTechnology/",
+    "category": "Bug Bounty",
+    "memberCount": "180,000+ members",
+    "description": "HackerOne and Bugcrowd hunters sharing automated asset recon techniques and bounty methodologies.",
+    "joinUrl": "https://www.reddit.com/r/bugbounty/",
     "tags": [
-      "proptech",
-      "skip-tracing",
-      "automation",
+      "bugbounty",
+      "recon",
+      "hackerone",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "cyber-threat-intelligence-osint-collective-reddit-19",
-    "title": "Mortgages & Creative Financing Hub",
-    "platform": "Reddit",
-    "category": "Creative Finance",
-    "memberCount": "65,000+ members",
-    "description": "Subject-to financing, seller finance notes, hard money lending, and BRRRR refinancing execution.",
-    "joinUrl": "https://www.reddit.com/r/Mortgages/",
+    "id": "cyber-threat-intelligence-osint-collective-discord-19",
+    "title": "Bounty Hunters Discord",
+    "platform": "Discord",
+    "category": "Bounty",
+    "memberCount": "40,000+ members",
+    "description": "Live bug bounty collaboration, methodology exchange, and scope analysis.",
+    "joinUrl": "https://discord.gg/bugbounty",
     "tags": [
-      "creative-finance",
-      "mortgages",
-      "lending",
-      "reddit"
+      "bugbounty",
+      "collaboration",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-reddit-20",
-    "title": "Real Estate Tax & 1031 Exchange Guild",
+    "title": "r/linux Hardened Kernels & Defense",
     "platform": "Reddit",
-    "category": "Tax Strategy",
-    "memberCount": "280,000+ members",
-    "description": "Tax shelter strategies, cost segregation studies, 1031 tax-deferred exchanges, and depreciation deductions.",
-    "joinUrl": "https://www.reddit.com/r/tax/",
+    "category": "Linux",
+    "memberCount": "1,100,000+ members",
+    "description": "SELinux policies, AppArmor profiles, kernel auditing, and secure system configuration.",
+    "joinUrl": "https://www.reddit.com/r/linux/",
     "tags": [
-      "tax-strategy",
-      "1031-exchange",
-      "depreciation",
+      "linux",
+      "selinux",
+      "hardening",
       "reddit"
     ],
     "verified": true,
@@ -341,101 +338,98 @@
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-reddit-21",
-    "title": "Wealth Building & Equity Stacking",
+    "title": "r/Python Security Scripting & Exploit PoCs",
     "platform": "Reddit",
-    "category": "Wealth",
-    "memberCount": "450,000+ members",
-    "description": "Strategic allocation, leverage optimization, and portfolio growth across real estate assets.",
-    "joinUrl": "https://www.reddit.com/r/FinancialPlanning/",
+    "category": "Python",
+    "memberCount": "1,250,000+ members",
+    "description": "Developing security tools with Python: Scapy packet manipulation, Yara Python bindings, and CTI parsers.",
+    "joinUrl": "https://www.reddit.com/r/Python/",
     "tags": [
-      "wealth",
-      "financial-planning",
-      "equity",
+      "python",
+      "scapy",
+      "cti-parser",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "cyber-threat-intelligence-osint-collective-discord-22",
-    "title": "Real Estate Global Discord Server",
-    "platform": "Discord",
-    "category": "Discord",
-    "memberCount": "25,000+ members",
-    "description": "Largest verified real estate Discord server with active voice channels, deal pitch rooms, and mentorship.",
-    "joinUrl": "https://discord.gg/realestate",
+    "id": "cyber-threat-intelligence-osint-collective-telegram-22",
+    "title": "Python Security Scripts Channel",
+    "platform": "Telegram",
+    "category": "Scripts",
+    "memberCount": "85,000+ members",
+    "description": "Curated security scripts, log parsers, and threat intelligence ingestion pipelines.",
+    "joinUrl": "https://t.me/python_scripts",
     "tags": [
-      "discord",
-      "deal-pitch",
-      "voice-hangouts",
-      "networking"
+      "telegram",
+      "python",
+      "security-scripts"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-discord-23",
-    "title": "BiggerPockets Community Discord",
+    "title": "Python Developers Official Discord",
     "platform": "Discord",
-    "category": "Biggerpockets",
-    "memberCount": "30,000+ members",
-    "description": "Active Discord community aligned with BiggerPockets methods: BRRRR, fix-and-flip, and passive syndications.",
-    "joinUrl": "https://discord.gg/biggerpockets",
+    "category": "Python Discord",
+    "memberCount": "430,000+ members",
+    "description": "Support with Python networking libraries, cryptography modules, and async socket communication.",
+    "joinUrl": "https://discord.gg/python",
     "tags": [
-      "biggerpockets",
-      "brrrr",
-      "discord",
-      "mentorship"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "cyber-threat-intelligence-osint-collective-discord-24",
-    "title": "Global Investing & Real Estate Guild",
-    "platform": "Discord",
-    "category": "Investing",
-    "memberCount": "150,000+ members",
-    "description": "Multi-asset investment discussions with dedicated real estate channels, market updates, and portfolio tracking.",
-    "joinUrl": "https://discord.gg/investing",
-    "tags": [
-      "investing",
-      "real-estate",
-      "discord",
-      "portfolios"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "cyber-threat-intelligence-osint-collective-discord-25",
-    "title": "Wealth & Real Estate Syndicate",
-    "platform": "Discord",
-    "category": "Wealth",
-    "memberCount": "40,000+ members",
-    "description": "Private syndications, capital pooling, deal vetting, and joint venture partnerships in multifamily real estate.",
-    "joinUrl": "https://discord.gg/wealth",
-    "tags": [
-      "wealth",
-      "syndicates",
-      "joint-ventures",
+      "python",
+      "networking",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "cyber-threat-intelligence-osint-collective-discord-26",
-    "title": "Finance & Cash Flow Real Estate Hub",
+    "id": "cyber-threat-intelligence-osint-collective-discord-24",
+    "title": "The Programmer's Hangout Discord",
     "platform": "Discord",
-    "category": "Cash Flow",
-    "memberCount": "65,000+ members",
-    "description": "Live financial analysis, cap rate calculators, cash-on-cash yield breakdowns, and deal underwriting.",
-    "joinUrl": "https://discord.gg/finance",
+    "category": "Software",
+    "memberCount": "220,000+ members",
+    "description": "Software architecture discussion covering cryptography standards, secure memory handling, and APIs.",
+    "joinUrl": "https://discord.gg/programming",
     "tags": [
-      "cash-flow",
-      "underwriting",
-      "finance",
+      "programming",
+      "cryptography",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "cyber-threat-intelligence-osint-collective-reddit-25",
+    "title": "r/programming Vulnerability Analysis Hub",
+    "platform": "Reddit",
+    "category": "Programming",
+    "memberCount": "5,800,000+ members",
+    "description": "Industry discussions on software supply chain security, dependency auditing, and safe development.",
+    "joinUrl": "https://www.reddit.com/r/programming/",
+    "tags": [
+      "programming",
+      "supply-chain",
+      "security",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "cyber-threat-intelligence-osint-collective-discord-26",
+    "title": "Devcord Secure Devops Discord",
+    "platform": "Discord",
+    "category": "DevSecOps",
+    "memberCount": "75,000+ members",
+    "description": "Integrating SAST and DAST scanners into CI/CD pipelines, container auditing, and secrets management.",
+    "joinUrl": "https://discord.gg/devcord",
+    "tags": [
+      "devsecops",
+      "sast",
+      "security",
       "discord"
     ],
     "verified": true,
@@ -443,68 +437,66 @@
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-discord-27",
-    "title": "Business & Real Estate Network",
+    "title": "Rust Systems & Memory Safety Discord",
     "platform": "Discord",
-    "category": "Business Scaling",
-    "memberCount": "50,000+ members",
-    "description": "Scaling real estate wholesaling operations, cold calling scripts, VA management, and CRM automation.",
-    "joinUrl": "https://discord.gg/business",
+    "category": "Rust Safety",
+    "memberCount": "95,000+ members",
+    "description": "Building memory-safe system tools and malware sandboxes with Rust.",
+    "joinUrl": "https://discord.gg/rust-lang",
     "tags": [
-      "business-scaling",
-      "wholesaling",
-      "discord",
-      "automation"
+      "rust",
+      "memory-safety",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "cyber-threat-intelligence-osint-collective-discord-28",
-    "title": "Real Estate Entrepreneurs Syndicate",
-    "platform": "Discord",
-    "category": "Entrepreneurs",
-    "memberCount": "55,000+ members",
-    "description": "Founders, flippers, and wholesalers sharing live deal contracts, title company contacts, and private lenders.",
-    "joinUrl": "https://discord.gg/entrepreneur",
-    "tags": [
-      "entrepreneurs",
-      "private-lenders",
-      "discord",
-      "dealflow"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "cyber-threat-intelligence-osint-collective-telegram-29",
-    "title": "Property Investors Global Telegram Channel",
+    "id": "cyber-threat-intelligence-osint-collective-telegram-28",
+    "title": "Rust Security & Systems Telegram",
     "platform": "Telegram",
-    "category": "Telegram",
-    "memberCount": "18,500+ members",
-    "description": "Daily verified property deal flow, worldwide market analysis, and real estate investing strategies.",
-    "joinUrl": "https://t.me/propertyinvestors",
+    "category": "Rust News",
+    "memberCount": "32,000+ members",
+    "description": "Weekly deep dives into Rust vulnerability advisories, memory safety guarantees, and systems tools.",
+    "joinUrl": "https://t.me/rust_lang_news",
     "tags": [
       "telegram",
-      "property-deals",
-      "dealflow",
-      "global"
+      "rust",
+      "security",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "cyber-threat-intelligence-osint-collective-discord-29",
+    "title": "Tech Community Discord",
+    "platform": "Discord",
+    "category": "Tech",
+    "memberCount": "55,000+ members",
+    "description": "Discussions on enterprise tech infrastructure, data governance, and threat mitigation.",
+    "joinUrl": "https://discord.gg/tech",
+    "tags": [
+      "tech",
+      "enterprise",
+      "governance",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-telegram-30",
-    "title": "Real Estate Market Pulse Telegram",
+    "title": "TechCrunch Cyber Defense Releases",
     "platform": "Telegram",
-    "category": "Telegram",
-    "memberCount": "14,200+ members",
-    "description": "Instant alerts on interest rate shifts, housing inventory updates, and institutional buying trends.",
-    "joinUrl": "https://t.me/realestatemarket",
+    "category": "Cyber News",
+    "memberCount": "65,000+ members",
+    "description": "Reporting on venture capital funding for cybersecurity intelligence firms and defensive platforms.",
+    "joinUrl": "https://t.me/techcrunch",
     "tags": [
       "telegram",
-      "market-alerts",
-      "inventory",
-      "rates"
+      "cyber-news",
+      "funding"
     ],
     "verified": true,
     "featured": false
