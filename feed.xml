@@ -4,10 +4,17 @@
     <title>Cyber Threat Intelligence &amp; OSINT Collective</title>
     <link>https://cyber-threat-intelligence-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 06:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:02:54 GMT</lastBuildDate>
     <atom:link href="https://cyber-threat-intelligence-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                <item>
+                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/cyber-threat-intelligence-hub/#cyber-threat-intelligence-hub-forum-20260923-1-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 06:02:54 GMT</pubDate>
+      <description>Newly verified community added to Cyber Threat Intelligence &amp; OSINT Collective: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/cyber-threat-intelligence-hub/#cyber-threat-intelligence-hub-forum-20260923-1-2026-10-15</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/cyber-threat-intelligence-hub/#cyber-threat-intelligence-hub-reddit-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 10:46:52 GMT</pubDate>
       <description>Newly verified community added to Cyber Threat Intelligence &amp; OSINT Collective: Community of AWS certified solutions architects and engineers discussing ECS, Lambda, IAM, and cost optimization.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/docker Containers (Reddit)</title>
-      <link>https://www.reddit.com/r/docker/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/cyber-threat-intelligence-hub/#cyber-threat-intelligence-hub-reddit-20260914-1-2026-09-14</guid>
-      <pubDate>Mon, 14 Sep 2026 06:08:04 GMT</pubDate>
-      <description>Newly verified community added to Cyber Threat Intelligence &amp; OSINT Collective: Guides, Dockerfile optimization, multi-stage builds, and Docker Compose architectures for modern microservices.</description>
     </item>
   </channel>
 </rss>
