@@ -1,5 +1,24 @@
 [
   {
+    "id": "cyber-threat-intelligence-osint-collective-reddit-2",
+    "title": "r/OSINT Open Source Intelligence Guild",
+    "platform": "Reddit",
+    "category": "OSINT",
+    "memberCount": "190,000+ members",
+    "description": "Open Source Intelligence investigations, geolocation forensics, search techniques, and data verification.",
+    "joinUrl": "https://www.reddit.com/r/OSINT/",
+    "tags": [
+      "osint",
+      "investigation",
+      "forensics",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "id": "cyber-threat-intelligence-osint-collective-reddit-1",
     "title": "r/threatintel Adversary Emulation & CTI",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -226,24 +245,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "cyber-threat-intelligence-osint-collective-reddit-2",
-    "title": "r/OSINT Open Source Intelligence Guild",
-    "platform": "Reddit",
-    "category": "OSINT",
-    "memberCount": "190,000+ members",
-    "description": "Open Source Intelligence investigations, geolocation forensics, search techniques, and data verification.",
-    "joinUrl": "https://www.reddit.com/r/OSINT/",
-    "tags": [
-      "osint",
-      "investigation",
-      "forensics",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-reddit-3",
