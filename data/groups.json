@@ -1,5 +1,24 @@
 [
   {
+    "id": "cyber-threat-intelligence-osint-collective-reddit-3",
+    "title": "r/cybersecurity Defense & Governance",
+    "platform": "Reddit",
+    "category": "Cybersecurity",
+    "memberCount": "920,000+ members",
+    "description": "Enterprise security operations, threat modeling, regulatory compliance, and incident response.",
+    "joinUrl": "https://www.reddit.com/r/cybersecurity/",
+    "tags": [
+      "cybersecurity",
+      "soc",
+      "defense",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "id": "cyber-threat-intelligence-osint-collective-reddit-2",
     "title": "r/OSINT Open Source Intelligence Guild",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -245,24 +264,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "cyber-threat-intelligence-osint-collective-reddit-3",
-    "title": "r/cybersecurity Defense & Governance",
-    "platform": "Reddit",
-    "category": "Cybersecurity",
-    "memberCount": "920,000+ members",
-    "description": "Enterprise security operations, threat modeling, regulatory compliance, and incident response.",
-    "joinUrl": "https://www.reddit.com/r/cybersecurity/",
-    "tags": [
-      "cybersecurity",
-      "soc",
-      "defense",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-reddit-4",
