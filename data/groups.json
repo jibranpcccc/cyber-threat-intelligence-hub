@@ -1,5 +1,24 @@
 [
   {
+    "id": "cyber-threat-intelligence-osint-collective-reddit-5",
+    "title": "r/Malware Reverse Engineering & Sandboxing",
+    "platform": "Reddit",
+    "category": "Malware",
+    "memberCount": "115,000+ members",
+    "description": "Malware sample analysis, decompilation, dynamic sandboxing, unpacking techniques, and C2 infrastructure.",
+    "joinUrl": "https://www.reddit.com/r/Malware/",
+    "tags": [
+      "malware",
+      "reverse-engineering",
+      "sandboxing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "id": "cyber-threat-intelligence-osint-collective-reddit-4",
     "title": "r/netsec Network Security & Exploits",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -283,24 +302,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "cyber-threat-intelligence-osint-collective-reddit-5",
-    "title": "r/Malware Reverse Engineering & Sandboxing",
-    "platform": "Reddit",
-    "category": "Malware",
-    "memberCount": "115,000+ members",
-    "description": "Malware sample analysis, decompilation, dynamic sandboxing, unpacking techniques, and C2 infrastructure.",
-    "joinUrl": "https://www.reddit.com/r/Malware/",
-    "tags": [
-      "malware",
-      "reverse-engineering",
-      "sandboxing",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-reddit-6",
