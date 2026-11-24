@@ -1,5 +1,24 @@
 [
   {
+    "id": "cyber-threat-intelligence-osint-collective-reddit-7",
+    "title": "r/reverseengineering Binary Analysis Guild",
+    "platform": "Reddit",
+    "category": "Reverse Engineering",
+    "memberCount": "130,000+ members",
+    "description": "Ghidra, IDA Pro, x64dbg workflows, firmware disassembly, binary reversing, and anti-debug bypasses.",
+    "joinUrl": "https://www.reddit.com/r/reverseengineering/",
+    "tags": [
+      "reverse-engineering",
+      "ghidra",
+      "binary",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "cyber-threat-intelligence-osint-collective-reddit-6",
     "title": "r/blueteamsec Threat Hunting & SOC Ops",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -321,24 +340,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "cyber-threat-intelligence-osint-collective-reddit-7",
-    "title": "r/reverseengineering Binary Analysis Guild",
-    "platform": "Reddit",
-    "category": "Reverse Engineering",
-    "memberCount": "130,000+ members",
-    "description": "Ghidra, IDA Pro, x64dbg workflows, firmware disassembly, binary reversing, and anti-debug bypasses.",
-    "joinUrl": "https://www.reddit.com/r/reverseengineering/",
-    "tags": [
-      "reverse-engineering",
-      "ghidra",
-      "binary",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "cyber-threat-intelligence-osint-collective-forum-8",
